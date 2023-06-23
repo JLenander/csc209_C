@@ -1,6 +1,6 @@
 # CSC209 Message Board Server assignment
-Assignment for CSC209 Winter 2023 session at the University of Toronto using C to create a message board server capable of handling commands and communicating basic messages to different users.
-Written for the GNU99 C standard.
+Assignment for CSC209 Winter 2023 session at the University of Toronto using C and sockets to create a message board server capable of handling commands and communicating basic messages to different users.
+Written for the GNU99 C standard. Run and tested on Linux servers.
 
 The server is launched by running the `friend_server` executable. The server can be connected to using the `netcat` utility and accepts text commands. Users log in via a username and communicate with others by posting onto their message boards.
 
